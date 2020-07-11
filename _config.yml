@@ -1,3 +1,11 @@
+# GitHub
+username: karlbeecken
+repo: knowledge
+branch: master
+
+title: Knowledge
+description: Collecting more or less useful knowledge
+
 remote_theme: pmarsceill/just-the-docs
 
 # Enable or disable the site search
