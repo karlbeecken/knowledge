@@ -3,7 +3,7 @@ layout: default
 title: Autosign Git commits
 ---
 
-## Autosign Git commits
+# Autosign Git commits
 
 You need to do 2 things:
 
