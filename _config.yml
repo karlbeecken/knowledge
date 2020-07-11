@@ -5,7 +5,7 @@ branch: master
 
 title: Knowledge
 description: Collecting more or less useful knowledge
-permalinks: pretty
+permalink: pretty
 
 remote_theme: pmarsceill/just-the-docs
 
