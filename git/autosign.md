@@ -7,6 +7,9 @@ parent: Git
 
 # Autosign Git commits
 
+Tested
+{: .label .label-green }
+
 You need to do 2 things:
 
 1. tell Git what should be your default GPG signing key: `git config --global user.signingkey <key id>`
