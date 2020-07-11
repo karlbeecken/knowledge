@@ -4,11 +4,9 @@ title: Autosign Git commits
 published: true
 parent: Git
 ---
-
-# Autosign Git commits
-
 Tested
 {: .label .label-green }
+# Autosign Git commits
 
 You need to do 2 things:
 
