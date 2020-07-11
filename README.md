@@ -2,6 +2,8 @@
 layout: default
 title: Startseite
 nav_exclude: true
+published: true
+permalink: /
 ---
 
 # Knowledge
