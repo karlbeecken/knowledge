@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Autosign Git commits
+published: true
+parent: Git
 ---
 
 # Autosign Git commits
