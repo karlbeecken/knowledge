@@ -33,6 +33,9 @@ For every other command inside tmux, hit `Ctrl-b` and then enter the desired com
 ## Windows/Tabs
 
 - `c` – new window
+- `p` – previus window
+- `n` – next window
+- `0`...`9` – selected window by number
 - `,` – name window
 - `w` – list windows
 - `f` – find window
