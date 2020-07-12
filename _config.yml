@@ -6,6 +6,7 @@ branch: master
 title: Knowledge
 description: Collecting more or less useful knowledge
 permalink: pretty
+url: "https://know.beecken.berlin"
 
 remote_theme: pmarsceill/just-the-docs
 
