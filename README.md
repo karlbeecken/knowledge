@@ -9,4 +9,4 @@ permalink: /
 # Knowledge
 _A place to collect knowledge_
 
-Web version:
+Web version: https://know.beecken.berlin
