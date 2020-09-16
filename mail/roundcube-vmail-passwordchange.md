@@ -17,6 +17,6 @@ Tested
 7. change the value of `$config['password_dovecotpw_method']` to `SHA512-CRYPT`
 8. set `$config['password_dovecotpw_with_method']` to `true`
 9. in `$config['password_db_dsn']` insert the DSN of your vmail db/user, e.g. `'mysql://vmail:password1234@localhost/vmail'` _Note: the given user has to have write access to the vmail database_
-10. set `$config['password_query']` `'UPDATE accounts SET password=%P WHERE username=%l LIMIT 1'`
+10. set `$config['password_query']` `'UPDATE accounts SET password=%P WHERE username=%l AND domain=%d AND LIMIT 1'`
 
 That's it! You should change the name of the database if you used an other name than `vmail`.
